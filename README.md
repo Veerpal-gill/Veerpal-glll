@@ -61,7 +61,7 @@ My goal is to begin my career as a **Data Analyst or MIS Executive**, where I ca
 - **LinkedIn:** www.linkedin.com/in/veerpal-gill
 
 
-- **GitHub:** Add your GitHub profile URL here
+- **GitHub:** https://github.com/Veerpal-gill
 
 ## ⭐ Thank You
 
